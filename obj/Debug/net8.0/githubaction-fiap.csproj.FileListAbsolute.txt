@@ -1,0 +1,14 @@
+C:\Users\arthu\source\repos\githubaction-fiap\githubaction-fiap\bin\Debug\net8.0\githubaction-fiap.exe
+C:\Users\arthu\source\repos\githubaction-fiap\githubaction-fiap\bin\Debug\net8.0\githubaction-fiap.deps.json
+C:\Users\arthu\source\repos\githubaction-fiap\githubaction-fiap\bin\Debug\net8.0\githubaction-fiap.runtimeconfig.json
+C:\Users\arthu\source\repos\githubaction-fiap\githubaction-fiap\bin\Debug\net8.0\githubaction-fiap.dll
+C:\Users\arthu\source\repos\githubaction-fiap\githubaction-fiap\bin\Debug\net8.0\githubaction-fiap.pdb
+C:\Users\arthu\source\repos\githubaction-fiap\githubaction-fiap\obj\Debug\net8.0\githubaction-fiap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arthu\source\repos\githubaction-fiap\githubaction-fiap\obj\Debug\net8.0\githubaction-fiap.AssemblyInfoInputs.cache
+C:\Users\arthu\source\repos\githubaction-fiap\githubaction-fiap\obj\Debug\net8.0\githubaction-fiap.AssemblyInfo.cs
+C:\Users\arthu\source\repos\githubaction-fiap\githubaction-fiap\obj\Debug\net8.0\githubaction-fiap.csproj.CoreCompileInputs.cache
+C:\Users\arthu\source\repos\githubaction-fiap\githubaction-fiap\obj\Debug\net8.0\githubaction-fiap.dll
+C:\Users\arthu\source\repos\githubaction-fiap\githubaction-fiap\obj\Debug\net8.0\refint\githubaction-fiap.dll
+C:\Users\arthu\source\repos\githubaction-fiap\githubaction-fiap\obj\Debug\net8.0\githubaction-fiap.pdb
+C:\Users\arthu\source\repos\githubaction-fiap\githubaction-fiap\obj\Debug\net8.0\githubaction-fiap.genruntimeconfig.cache
+C:\Users\arthu\source\repos\githubaction-fiap\githubaction-fiap\obj\Debug\net8.0\ref\githubaction-fiap.dll
